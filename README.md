@@ -21,3 +21,6 @@ plotly (for interactive plotting)
 pandas (for data manipulation)  
 ## Description
 This project focuses on extracting stock and revenue data for Tesla and GameStop using Python. It includes visualizing the stock trends by plotting graphs. While there is no in-depth analysis in this project, it serves as an introduction to financial data extraction and visualization using Python libraries.
+
+### Note:
+Since the graph is not displayed here, I have attached the image file in the project directory under the `graphs` folder.
