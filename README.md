@@ -15,9 +15,9 @@ This project is part of the IBM Data Analyst Course, specifically the "Python Ba
 - Plot GameStop Stock Graph: Similarly, plot the historical stock data of GameStop, visualizing the stock trends.
 
 ## Requirements
-yfinance
-beautifulsoup4 (for web scraping)
-matplotlib or seaborn
-pandas
+yfinance (for stock data extraction)  
+beautifulsoup4 (for web scraping)  
+plotly (for interactive plotting)  
+pandas (for data manipulation)  
 ## Description
 This project focuses on extracting stock and revenue data for Tesla and GameStop using Python. It includes visualizing the stock trends by plotting graphs. While there is no in-depth analysis in this project, it serves as an introduction to financial data extraction and visualization using Python libraries.
